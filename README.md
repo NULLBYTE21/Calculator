@@ -1,6 +1,4 @@
-|--------------------|
 # TERMUX
-|--------------------|
 # Budayakan Membaca Ya sob...!!! 
 
 # Calculator
@@ -22,9 +20,7 @@ kali ini saya membuat program sendiri berbasis python untuk menambah wawasan say
 5.pkg install figlet
 
 6.gem install lolcat
-  |-------------------------|
-# |Cara menggunakan.        |
-  |-------------------------|
+# Cara menggunakan
 1-pkg update && pkg upgrade
 
 2-git clone https://github.com/NULLBYTE21/Calculator
@@ -39,11 +35,11 @@ kali ini saya membuat program sendiri berbasis python untuk menambah wawasan say
 
 # Pembuatan Program Oleh Rekha Gustiawan a.k.a NULLBYTE/ABENK21
 # Tunggu Update Versi Selanjutnya
-#    |----------------------------------------------------------|
-#    |TITLE   :OPERASI HITUNG BERJALAN.                         |
-#    |AUTHOR. :REKHA GUSTIAWAN.                                 |
-#    |CODE BY :NULL BYTE && REKHA GUSTIAWAN.                    |
-#    |EMAIL   :REKHAGUSTIAWAN25@GMAIL.COM.                      |
-#    |PROGRAM :OPERASI HITUNG/CALCULATOR VERSI PYTHON.          |
-#    |VERSION :ALGORITMA PYTHON 1.0.0.                          |
-#    |----------------------------------------------------------|
+#   |----------------------------------------------------------------|
+#    TITLE   :OPERASI HITUNG BERJALAN
+#    AUTHOR. :REKHA GUSTIAWAN
+#    CODE BY :NULL BYTE && REKHA GUSTIAWAN
+#    EMAIL   :REKHAGUSTIAWAN25@GMAIL.COM
+#    PROGRAM :OPERASI HITUNG/CALCULATOR VERSI PYTHON
+#    VERSION :ALGORITMA PYTHON 1.0.0
+#   |----------------------------------------------------------------|
