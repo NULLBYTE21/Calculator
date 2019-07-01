@@ -1,5 +1,6 @@
+|--------------------|
 # TERMUX
-
+|--------------------|
 # Budayakan Membaca Ya sob...!!! 
 
 # Calculator
@@ -21,9 +22,9 @@ kali ini saya membuat program sendiri berbasis python untuk menambah wawasan say
 5.pkg install figlet
 
 6.gem install lolcat
-# |----------------|
-# |Cara menggunakan|
-# |----------------|
+  |-------------------------|
+# |Cara menggunakan.        |
+  |-------------------------|
 1-pkg update && pkg upgrade
 
 2-git clone https://github.com/NULLBYTE21/Calculator
