@@ -1,6 +1,12 @@
 #!/usr/bin/bash
 date | lolcat
 figlet -f slant "Wait...!" | lolcat
+      pkg install python && pkg install python2
+date | lolcat
+figlet -f slant "Wait...!" | lolcat
+      pkg install nano
+date | lolcat
+figlet -f slant "Wait...!" | lolcat
       pkg install figlet
 date | lolcat
 figlet -f slant "Wait...!" | lolcat
