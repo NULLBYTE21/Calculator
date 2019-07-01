@@ -1,10 +1,18 @@
 #!/bin/usr/python
 #-*- coding utf-8 -*-
-# jangan di copy paste bos,kalo ntar kena copyright baru tau rasa lu
+# Jangan di copy paste bos,kalo ntar kena copyright baru tau rasa lu
+# 
+# Jangan di Copas Bambang Bikinnya Pake Otak Bukan Pake Kaki
 #
-# jangan pernah merusak atau mencoba menghancurkan karya orang lain
+# Jangan pernah merusak atau mencoba menghancurkan karya orang lain
 #
-# hargai lah karya orang lain,sehingga karyamu akan di hargai juga oleh orang lain
+# Hargai lah karya orang lain,sehingga karyamu akan di hargai juga oleh orang lain
+#
+# Jangan Menjadi Perusak Jika tidak ingin dirusak 
+#
+# Eh...Nying Jangan Di Salin Cuk,Dibilangin Jangan Disalin Kont*l
+#
+# Lu Copas Gua Do'a in Mandul 7 Turunan Lu
 #
 #Tunggu Update Versi Selanjutnya
 #
