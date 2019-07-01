@@ -1,7 +1,6 @@
-#TERMUX
+# TERMUX
 
-#Budayakan Membaca Ya sob...!!! 
-
+# Budayakan Membaca Ya sob...!!! 
 
 # Calculator
 Adalah sebuah alat/operasi hitung yang telah kita gunakan untuk menghitung jumlah,perkalian,dan juga pembagian
