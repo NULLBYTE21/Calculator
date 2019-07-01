@@ -7,22 +7,25 @@ kali ini saya membuat program sendiri berbasis python untuk menambah wawasan say
 # Bahan-bahan yang dibutuhkan untuk membuka program; 
 1.pkg update && pkg upgrade
 
-2.pkg pasang python && pkg pasang python2
+2.pkg install python && pkg install python2
 
-3.pkg instal git
+3.pkg install git
 
 # Cara menggunakan
-1.pkg update && pkg upgrade
 
-2.pkg install git
+1-pkg update && pkg upgrade
 
-3.pkg install python && pkg install python2
+2-pkg install git
 
-4.cd Calculator && ls
+3-git clone https://github.com/NULLBYTE21/Calculator
 
-5.chmod +x *
+4-pkg install python && pkg install python2
 
-6. ./campur.py
+5-cd Calculator && ls
+
+6-chmod +x *
+
+7-./campur.py
 
 # Pembuatan Program Oleh Rekha Gustiawan a.k.a NULLBYTE/ABENK21
 # Tunggu Update Versi Selanjutnya
